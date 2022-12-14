@@ -1,0 +1,689 @@
+10000/10000 [==============================] - 167s 17ms/step - reward: 0.0080
+50 episodes - episode_reward: 1.560 [0.000, 5.000] - loss: 0.003 - mae: 0.074 - mean_q: 0.102 - mean_eps: 0.951 - lives: 2.956 - episode_frame_number: 428.209 - frame_number: 218214.775
+
+Interval 7 (60000 steps performed)
+10000/10000 [==============================] - 160s 16ms/step - reward: 0.0069
+54 episodes - episode_reward: 1.315 [0.000, 6.000] - loss: 0.001 - mae: 0.075 - mean_q: 0.102 - mean_eps: 0.942 - lives: 2.993 - episode_frame_number: 406.295 - frame_number: 257890.472
+
+Interval 8 (70000 steps performed)
+10000/10000 [==============================] - 172s 17ms/step - reward: 0.0071
+52 episodes - episode_reward: 1.365 [0.000, 5.000] - loss: 0.001 - mae: 0.081 - mean_q: 0.109 - mean_eps: 0.933 - lives: 2.870 - episode_frame_number: 417.510 - frame_number: 297552.528
+
+Interval 9 (80000 steps performed)
+10000/10000 [==============================] - 175s 17ms/step - reward: 0.0080
+50 episodes - episode_reward: 1.520 [0.000, 4.000] - loss: 0.001 - mae: 0.085 - mean_q: 0.114 - mean_eps: 0.924 - lives: 2.892 - episode_frame_number: 423.955 - frame_number: 337244.024
+
+Interval 10 (90000 steps performed)
+10000/10000 [==============================] - 168s 17ms/step - reward: 0.0063
+56 episodes - episode_reward: 1.179 [0.000, 4.000] - loss: 0.001 - mae: 0.089 - mean_q: 0.120 - mean_eps: 0.915 - lives: 2.922 - episode_frame_number: 382.479 - frame_number: 376927.998
+
+Interval 11 (100000 steps performed)
+10000/10000 [==============================] - 165s 17ms/step - reward: 0.0065
+55 episodes - episode_reward: 1.200 [0.000, 4.000] - loss: 0.001 - mae: 0.096 - mean_q: 0.129 - mean_eps: 0.906 - lives: 2.933 - episode_frame_number: 395.061 - frame_number: 416606.672
+
+Interval 12 (110000 steps performed)
+10000/10000 [==============================] - 167s 17ms/step - reward: 0.0075
+53 episodes - episode_reward: 1.415 [0.000, 5.000] - loss: 0.001 - mae: 0.102 - mean_q: 0.137 - mean_eps: 0.897 - lives: 2.968 - episode_frame_number: 404.035 - frame_number: 456274.131
+
+Interval 13 (120000 steps performed)
+10000/10000 [==============================] - 168s 17ms/step - reward: 0.0065
+55 episodes - episode_reward: 1.182 [0.000, 4.000] - loss: 0.001 - mae: 0.116 - mean_q: 0.154 - mean_eps: 0.888 - lives: 2.961 - episode_frame_number: 380.844 - frame_number: 495947.716
+
+Interval 14 (130000 steps performed)
+10000/10000 [==============================] - 170s 17ms/step - reward: 0.0078
+50 episodes - episode_reward: 1.560 [0.000, 5.000] - loss: 0.001 - mae: 0.120 - mean_q: 0.161 - mean_eps: 0.879 - lives: 2.972 - episode_frame_number: 433.935 - frame_number: 535627.198
+
+Interval 15 (140000 steps performed)
+10000/10000 [==============================] - 170s 17ms/step - reward: 0.0078
+50 episodes - episode_reward: 1.480 [0.000, 4.000] - loss: 0.001 - mae: 0.126 - mean_q: 0.169 - mean_eps: 0.870 - lives: 3.016 - episode_frame_number: 422.783 - frame_number: 575331.019
+
+Interval 16 (150000 steps performed)
+10000/10000 [==============================] - 172s 17ms/step - reward: 0.0068
+54 episodes - episode_reward: 1.315 [0.000, 4.000] - loss: 0.001 - mae: 0.135 - mean_q: 0.181 - mean_eps: 0.861 - lives: 2.961 - episode_frame_number: 394.828 - frame_number: 615002.034
+
+Interval 17 (160000 steps performed)
+10000/10000 [==============================] - 174s 17ms/step - reward: 0.0081
+49 episodes - episode_reward: 1.673 [0.000, 4.000] - loss: 0.001 - mae: 0.140 - mean_q: 0.186 - mean_eps: 0.852 - lives: 2.921 - episode_frame_number: 439.798 - frame_number: 654696.028
+
+Interval 18 (170000 steps performed)
+10000/10000 [==============================] - 176s 18ms/step - reward: 0.0060
+55 episodes - episode_reward: 1.091 [0.000, 4.000] - loss: 0.001 - mae: 0.149 - mean_q: 0.199 - mean_eps: 0.843 - lives: 2.855 - episode_frame_number: 383.543 - frame_number: 694365.332
+
+Interval 19 (180000 steps performed)
+10000/10000 [==============================] - 178s 18ms/step - reward: 0.0069
+53 episodes - episode_reward: 1.302 [0.000, 4.000] - loss: 0.001 - mae: 0.158 - mean_q: 0.211 - mean_eps: 0.834 - lives: 2.967 - episode_frame_number: 399.571 - frame_number: 734037.273
+
+Interval 20 (190000 steps performed)
+10000/10000 [==============================] - 181s 18ms/step - reward: 0.0078
+52 episodes - episode_reward: 1.500 [0.000, 6.000] - loss: 0.001 - mae: 0.162 - mean_q: 0.216 - mean_eps: 0.825 - lives: 2.869 - episode_frame_number: 418.476 - frame_number: 773717.523
+
+Interval 21 (200000 steps performed)
+10000/10000 [==============================] - 182s 18ms/step - reward: 0.0065
+54 episodes - episode_reward: 1.185 [0.000, 4.000] - loss: 0.001 - mae: 0.170 - mean_q: 0.227 - mean_eps: 0.816 - lives: 2.932 - episode_frame_number: 392.645 - frame_number: 813394.258
+
+Interval 22 (210000 steps performed)
+10000/10000 [==============================] - 185s 18ms/step - reward: 0.0075
+54 episodes - episode_reward: 1.407 [0.000, 4.000] - loss: 0.001 - mae: 0.177 - mean_q: 0.236 - mean_eps: 0.807 - lives: 2.912 - episode_frame_number: 398.530 - frame_number: 853069.516
+
+Interval 23 (220000 steps performed)
+10000/10000 [==============================] - 184s 18ms/step - reward: 0.0077
+51 episodes - episode_reward: 1.510 [0.000, 6.000] - loss: 0.002 - mae: 0.184 - mean_q: 0.245 - mean_eps: 0.798 - lives: 2.908 - episode_frame_number: 422.321 - frame_number: 892755.493
+
+Interval 24 (230000 steps performed)
+10000/10000 [==============================] - 185s 18ms/step - reward: 0.0083
+49 episodes - episode_reward: 1.694 [0.000, 7.000] - loss: 0.002 - mae: 0.192 - mean_q: 0.256 - mean_eps: 0.789 - lives: 2.866 - episode_frame_number: 435.164 - frame_number: 932448.556
+
+Interval 25 (240000 steps performed)
+10000/10000 [==============================] - 188s 19ms/step - reward: 0.0087
+50 episodes - episode_reward: 1.740 [0.000, 5.000] - loss: 0.002 - mae: 0.196 - mean_q: 0.262 - mean_eps: 0.780 - lives: 3.030 - episode_frame_number: 438.139 - frame_number: 972156.167
+
+Interval 26 (250000 steps performed)
+10000/10000 [==============================] - 189s 19ms/step - reward: 0.0089
+49 episodes - episode_reward: 1.816 [0.000, 7.000] - loss: 0.002 - mae: 0.201 - mean_q: 0.271 - mean_eps: 0.771 - lives: 3.033 - episode_frame_number: 439.246 - frame_number: 1011865.697
+
+Interval 27 (260000 steps performed)
+10000/10000 [==============================] - 192s 19ms/step - reward: 0.0084
+49 episodes - episode_reward: 1.694 [0.000, 6.000] - loss: 0.002 - mae: 0.216 - mean_q: 0.293 - mean_eps: 0.762 - lives: 2.927 - episode_frame_number: 430.652 - frame_number: 1051561.478
+
+Interval 28 (270000 steps performed)
+10000/10000 [==============================] - 194s 19ms/step - reward: 0.0089
+47 episodes - episode_reward: 1.915 [0.000, 6.000] - loss: 0.002 - mae: 0.233 - mean_q: 0.317 - mean_eps: 0.753 - lives: 2.947 - episode_frame_number: 463.951 - frame_number: 1091260.743
+
+Interval 29 (280000 steps performed)
+10000/10000 [==============================] - 196s 20ms/step - reward: 0.0095
+46 episodes - episode_reward: 2.065 [0.000, 4.000] - loss: 0.002 - mae: 0.241 - mean_q: 0.330 - mean_eps: 0.744 - lives: 2.962 - episode_frame_number: 458.638 - frame_number: 1130988.391
+
+Interval 30 (290000 steps performed)
+10000/10000 [==============================] - 199s 20ms/step - reward: 0.0097
+47 episodes - episode_reward: 2.043 [0.000, 6.000] - loss: 0.002 - mae: 0.256 - mean_q: 0.352 - mean_eps: 0.735 - lives: 3.049 - episode_frame_number: 451.478 - frame_number: 1170721.279
+
+Interval 31 (300000 steps performed)
+10000/10000 [==============================] - 198s 20ms/step - reward: 0.0109
+42 episodes - episode_reward: 2.619 [0.000, 6.000] - loss: 0.003 - mae: 0.280 - mean_q: 0.385 - mean_eps: 0.726 - lives: 2.966 - episode_frame_number: 525.872 - frame_number: 1210460.774
+
+Interval 32 (310000 steps performed)
+10000/10000 [==============================] - 199s 20ms/step - reward: 0.0116
+40 episodes - episode_reward: 2.825 [0.000, 6.000] - loss: 0.003 - mae: 0.297 - mean_q: 0.411 - mean_eps: 0.717 - lives: 2.833 - episode_frame_number: 515.095 - frame_number: 1250218.439
+
+Interval 33 (320000 steps performed)
+10000/10000 [==============================] - 201s 20ms/step - reward: 0.0116
+42 episodes - episode_reward: 2.810 [0.000, 7.000] - loss: 0.003 - mae: 0.304 - mean_q: 0.423 - mean_eps: 0.708 - lives: 3.058 - episode_frame_number: 520.862 - frame_number: 1289986.919
+
+Interval 34 (330000 steps performed)
+10000/10000 [==============================] - 203s 20ms/step - reward: 0.0124
+39 episodes - episode_reward: 3.205 [0.000, 8.000] - loss: 0.003 - mae: 0.330 - mean_q: 0.458 - mean_eps: 0.699 - lives: 3.033 - episode_frame_number: 558.476 - frame_number: 1329754.706
+
+Interval 35 (340000 steps performed)
+10000/10000 [==============================] - 207s 21ms/step - reward: 0.0112
+42 episodes - episode_reward: 2.595 [0.000, 8.000] - loss: 0.003 - mae: 0.342 - mean_q: 0.473 - mean_eps: 0.690 - lives: 3.135 - episode_frame_number: 511.201 - frame_number: 1369533.212
+
+Interval 36 (350000 steps performed)
+10000/10000 [==============================] - 209s 21ms/step - reward: 0.0124
+39 episodes - episode_reward: 3.231 [0.000, 6.000] - loss: 0.003 - mae: 0.367 - mean_q: 0.506 - mean_eps: 0.681 - lives: 2.924 - episode_frame_number: 551.376 - frame_number: 1409299.376
+
+Interval 37 (360000 steps performed)
+10000/10000 [==============================] - 211s 21ms/step - reward: 0.0134
+35 episodes - episode_reward: 3.743 [1.000, 9.000] - loss: 0.004 - mae: 0.398 - mean_q: 0.551 - mean_eps: 0.672 - lives: 2.806 - episode_frame_number: 609.698 - frame_number: 1449091.740
+
+Interval 38 (370000 steps performed)
+10000/10000 [==============================] - 214s 21ms/step - reward: 0.0128
+41 episodes - episode_reward: 3.195 [0.000, 8.000] - loss: 0.005 - mae: 0.438 - mean_q: 0.610 - mean_eps: 0.663 - lives: 3.008 - episode_frame_number: 547.156 - frame_number: 1488864.609
+
+Interval 39 (380000 steps performed)
+10000/10000 [==============================] - 217s 22ms/step - reward: 0.0126
+40 episodes - episode_reward: 3.175 [0.000, 7.000] - loss: 0.007 - mae: 0.468 - mean_q: 0.658 - mean_eps: 0.654 - lives: 3.100 - episode_frame_number: 538.345 - frame_number: 1528641.195
+
+Interval 40 (390000 steps performed)
+10000/10000 [==============================] - 215s 21ms/step - reward: 0.0129
+40 episodes - episode_reward: 3.175 [0.000, 6.000] - loss: 0.007 - mae: 0.498 - mean_q: 0.703 - mean_eps: 0.645 - lives: 3.038 - episode_frame_number: 528.275 - frame_number: 1568411.213
+
+Interval 41 (400000 steps performed)
+10000/10000 [==============================] - 216s 22ms/step - reward: 0.0145
+35 episodes - episode_reward: 4.143 [1.000, 9.000] - loss: 0.006 - mae: 0.532 - mean_q: 0.745 - mean_eps: 0.636 - lives: 2.992 - episode_frame_number: 637.318 - frame_number: 1608192.579
+
+Interval 42 (410000 steps performed)
+10000/10000 [==============================] - 218s 22ms/step - reward: 0.0157
+33 episodes - episode_reward: 4.818 [1.000, 10.000] - loss: 0.006 - mae: 0.551 - mean_q: 0.768 - mean_eps: 0.627 - lives: 2.920 - episode_frame_number: 678.375 - frame_number: 1647999.276
+
+Interval 43 (420000 steps performed)
+10000/10000 [==============================] - 222s 22ms/step - reward: 0.0148
+33 episodes - episode_reward: 4.485 [0.000, 9.000] - loss: 0.005 - mae: 0.583 - mean_q: 0.800 - mean_eps: 0.618 - lives: 3.062 - episode_frame_number: 644.240 - frame_number: 1687807.265
+
+Interval 44 (430000 steps performed)
+10000/10000 [==============================] - 223s 22ms/step - reward: 0.0150
+33 episodes - episode_reward: 4.515 [1.000, 12.000] - loss: 0.005 - mae: 0.612 - mean_q: 0.833 - mean_eps: 0.609 - lives: 2.966 - episode_frame_number: 648.806 - frame_number: 1727621.840
+
+Interval 45 (440000 steps performed)
+10000/10000 [==============================] - 226s 23ms/step - reward: 0.0151
+33 episodes - episode_reward: 4.515 [0.000, 10.000] - loss: 0.005 - mae: 0.638 - mean_q: 0.866 - mean_eps: 0.600 - lives: 3.054 - episode_frame_number: 663.515 - frame_number: 1767419.641
+
+Interval 46 (450000 steps performed)
+10000/10000 [==============================] - 228s 23ms/step - reward: 0.0153
+32 episodes - episode_reward: 4.812 [1.000, 9.000] - loss: 0.004 - mae: 0.653 - mean_q: 0.890 - mean_eps: 0.591 - lives: 3.052 - episode_frame_number: 673.531 - frame_number: 1807236.509
+
+Interval 47 (460000 steps performed)
+10000/10000 [==============================] - 232s 23ms/step - reward: 0.0155
+32 episodes - episode_reward: 4.906 [2.000, 9.000] - loss: 0.003 - mae: 0.670 - mean_q: 0.911 - mean_eps: 0.582 - lives: 3.071 - episode_frame_number: 668.086 - frame_number: 1847050.356
+
+Interval 48 (470000 steps performed)
+10000/10000 [==============================] - 233s 23ms/step - reward: 0.0159
+30 episodes - episode_reward: 5.067 [1.000, 10.000] - loss: 0.003 - mae: 0.685 - mean_q: 0.930 - mean_eps: 0.573 - lives: 2.922 - episode_frame_number: 695.849 - frame_number: 1886876.075
+
+Interval 49 (480000 steps performed)
+10000/10000 [==============================] - 229s 23ms/step - reward: 0.0170
+29 episodes - episode_reward: 6.000 [1.000, 12.000] - loss: 0.003 - mae: 0.712 - mean_q: 0.966 - mean_eps: 0.564 - lives: 2.953 - episode_frame_number: 742.498 - frame_number: 1926707.493
+
+Interval 50 (490000 steps performed)
+10000/10000 [==============================] - 232s 23ms/step - reward: 0.0164
+31 episodes - episode_reward: 5.355 [2.000, 11.000] - loss: 0.003 - mae: 0.726 - mean_q: 0.982 - mean_eps: 0.555 - lives: 3.009 - episode_frame_number: 700.931 - frame_number: 1966544.957
+
+Interval 51 (500000 steps performed)
+10000/10000 [==============================] - 235s 23ms/step - reward: 0.0168
+28 episodes - episode_reward: 5.821 [2.000, 11.000] - loss: 0.002 - mae: 0.740 - mean_q: 1.000 - mean_eps: 0.546 - lives: 2.857 - episode_frame_number: 748.842 - frame_number: 2006371.239
+
+Interval 52 (510000 steps performed)
+10000/10000 [==============================] - 238s 24ms/step - reward: 0.0169
+28 episodes - episode_reward: 6.036 [2.000, 10.000] - loss: 0.002 - mae: 0.746 - mean_q: 1.008 - mean_eps: 0.537 - lives: 2.878 - episode_frame_number: 750.554 - frame_number: 2046215.554
+
+Interval 53 (520000 steps performed)
+10000/10000 [==============================] - 240s 24ms/step - reward: 0.0171
+30 episodes - episode_reward: 5.800 [1.000, 11.000] - loss: 0.002 - mae: 0.757 - mean_q: 1.019 - mean_eps: 0.528 - lives: 3.005 - episode_frame_number: 708.975 - frame_number: 2086050.638
+
+Interval 54 (530000 steps performed)
+10000/10000 [==============================] - 243s 24ms/step - reward: 0.0174
+27 episodes - episode_reward: 6.556 [2.000, 16.000] - loss: 0.002 - mae: 0.778 - mean_q: 1.045 - mean_eps: 0.519 - lives: 2.988 - episode_frame_number: 843.633 - frame_number: 2125898.737
+
+Interval 55 (540000 steps performed)
+10000/10000 [==============================] - 245s 25ms/step - reward: 0.0168
+29 episodes - episode_reward: 5.759 [2.000, 12.000] - loss: 0.002 - mae: 0.780 - mean_q: 1.048 - mean_eps: 0.510 - lives: 2.914 - episode_frame_number: 740.548 - frame_number: 2165743.426
+
+Interval 56 (550000 steps performed)
+10000/10000 [==============================] - 249s 25ms/step - reward: 0.0165
+28 episodes - episode_reward: 5.929 [1.000, 11.000] - loss: 0.002 - mae: 0.783 - mean_q: 1.052 - mean_eps: 0.501 - lives: 3.144 - episode_frame_number: 768.097 - frame_number: 2205592.503
+
+Interval 57 (560000 steps performed)
+10000/10000 [==============================] - 249s 25ms/step - reward: 0.0160
+27 episodes - episode_reward: 5.704 [2.000, 11.000] - loss: 0.002 - mae: 0.790 - mean_q: 1.061 - mean_eps: 0.492 - lives: 2.993 - episode_frame_number: 772.889 - frame_number: 2245434.484
+
+Interval 58 (570000 steps performed)
+10000/10000 [==============================] - 248s 25ms/step - reward: 0.0159
+27 episodes - episode_reward: 6.111 [0.000, 10.000] - loss: 0.001 - mae: 0.806 - mean_q: 1.083 - mean_eps: 0.483 - lives: 2.998 - episode_frame_number: 817.048 - frame_number: 2285287.099
+
+Interval 59 (580000 steps performed)
+10000/10000 [==============================] - 250s 25ms/step - reward: 0.0169
+25 episodes - episode_reward: 6.760 [4.000, 12.000] - loss: 0.001 - mae: 0.820 - mean_q: 1.100 - mean_eps: 0.474 - lives: 2.921 - episode_frame_number: 846.349 - frame_number: 2325155.809
+
+Interval 60 (590000 steps performed)
+10000/10000 [==============================] - 253s 25ms/step - reward: 0.0177
+23 episodes - episode_reward: 7.609 [3.000, 12.000] - loss: 0.001 - mae: 0.839 - mean_q: 1.126 - mean_eps: 0.465 - lives: 3.016 - episode_frame_number: 898.041 - frame_number: 2365025.609
+
+Interval 61 (600000 steps performed)
+10000/10000 [==============================] - 257s 26ms/step - reward: 0.0174
+24 episodes - episode_reward: 7.083 [2.000, 13.000] - loss: 0.002 - mae: 0.857 - mean_q: 1.150 - mean_eps: 0.456 - lives: 2.888 - episode_frame_number: 895.776 - frame_number: 2404897.752
+
+Interval 62 (610000 steps performed)
+10000/10000 [==============================] - 260s 26ms/step - reward: 0.0179
+24 episodes - episode_reward: 7.458 [3.000, 13.000] - loss: 0.001 - mae: 0.870 - mean_q: 1.168 - mean_eps: 0.447 - lives: 2.954 - episode_frame_number: 878.314 - frame_number: 2444767.364
+
+Interval 63 (620000 steps performed)
+10000/10000 [==============================] - 263s 26ms/step - reward: 0.0179
+25 episodes - episode_reward: 7.040 [2.000, 10.000] - loss: 0.001 - mae: 0.876 - mean_q: 1.176 - mean_eps: 0.438 - lives: 2.950 - episode_frame_number: 845.182 - frame_number: 2484632.718
+
+Interval 64 (630000 steps performed)
+10000/10000 [==============================] - 267s 27ms/step - reward: 0.0187
+24 episodes - episode_reward: 7.833 [3.000, 12.000] - loss: 0.002 - mae: 0.885 - mean_q: 1.188 - mean_eps: 0.429 - lives: 3.071 - episode_frame_number: 878.842 - frame_number: 2524499.686
+
+Interval 65 (640000 steps performed)
+10000/10000 [==============================] - 271s 27ms/step - reward: 0.0179
+25 episodes - episode_reward: 7.120 [2.000, 11.000] - loss: 0.002 - mae: 0.893 - mean_q: 1.199 - mean_eps: 0.420 - lives: 3.038 - episode_frame_number: 839.103 - frame_number: 2564364.205
+
+Interval 66 (650000 steps performed)
+10000/10000 [==============================] - 268s 27ms/step - reward: 0.0186
+23 episodes - episode_reward: 8.478 [3.000, 17.000] - loss: 0.002 - mae: 0.905 - mean_q: 1.217 - mean_eps: 0.411 - lives: 3.081 - episode_frame_number: 971.047 - frame_number: 2604241.444
+
+Interval 67 (660000 steps performed)
+10000/10000 [==============================] - 268s 27ms/step - reward: 0.0191
+24 episodes - episode_reward: 7.875 [3.000, 14.000] - loss: 0.002 - mae: 0.918 - mean_q: 1.234 - mean_eps: 0.402 - lives: 2.937 - episode_frame_number: 874.587 - frame_number: 2644110.879
+
+Interval 68 (670000 steps performed)
+10000/10000 [==============================] - 270s 27ms/step - reward: 0.0195
+21 episodes - episode_reward: 9.143 [5.000, 15.000] - loss: 0.002 - mae: 0.931 - mean_q: 1.253 - mean_eps: 0.393 - lives: 2.999 - episode_frame_number: 973.546 - frame_number: 2683988.845
+
+Interval 69 (680000 steps performed)
+10000/10000 [==============================] - 274s 27ms/step - reward: 0.0200
+22 episodes - episode_reward: 9.136 [5.000, 14.000] - loss: 0.002 - mae: 0.945 - mean_q: 1.271 - mean_eps: 0.384 - lives: 2.856 - episode_frame_number: 947.432 - frame_number: 2723881.189
+
+Interval 70 (690000 steps performed)
+10000/10000 [==============================] - 277s 28ms/step - reward: 0.0190
+20 episodes - episode_reward: 9.300 [5.000, 16.000] - loss: 0.002 - mae: 0.954 - mean_q: 1.283 - mean_eps: 0.375 - lives: 2.886 - episode_frame_number: 1016.402 - frame_number: 2763768.349
+
+Interval 71 (700000 steps performed)
+10000/10000 [==============================] - 282s 28ms/step - reward: 0.0195
+23 episodes - episode_reward: 8.391 [4.000, 13.000] - loss: 0.002 - mae: 0.955 - mean_q: 1.286 - mean_eps: 0.366 - lives: 3.074 - episode_frame_number: 917.693 - frame_number: 2803637.223
+
+Interval 72 (710000 steps performed)
+10000/10000 [==============================] - 286s 29ms/step - reward: 0.0201
+21 episodes - episode_reward: 9.571 [3.000, 17.000] - loss: 0.002 - mae: 0.971 - mean_q: 1.308 - mean_eps: 0.357 - lives: 2.908 - episode_frame_number: 1030.435 - frame_number: 2843521.234
+
+Interval 73 (720000 steps performed)
+10000/10000 [==============================] - 289s 29ms/step - reward: 0.0200
+20 episodes - episode_reward: 10.350 [3.000, 15.000] - loss: 0.002 - mae: 0.988 - mean_q: 1.334 - mean_eps: 0.348 - lives: 2.968 - episode_frame_number: 1078.937 - frame_number: 2883402.218
+
+Interval 74 (730000 steps performed)
+10000/10000 [==============================] - 293s 29ms/step - reward: 0.0205
+20 episodes - episode_reward: 9.950 [4.000, 18.000] - loss: 0.002 - mae: 0.994 - mean_q: 1.344 - mean_eps: 0.339 - lives: 3.034 - episode_frame_number: 1072.703 - frame_number: 2923285.746
+
+Interval 75 (740000 steps performed)
+10000/10000 [==============================] - 290s 29ms/step - reward: 0.0204
+20 episodes - episode_reward: 9.900 [5.000, 17.000] - loss: 0.003 - mae: 1.012 - mean_q: 1.368 - mean_eps: 0.330 - lives: 3.024 - episode_frame_number: 1046.976 - frame_number: 2963168.846
+
+Interval 76 (750000 steps performed)
+10000/10000 [==============================] - 288s 29ms/step - reward: 0.0205
+21 episodes - episode_reward: 10.333 [5.000, 18.000] - loss: 0.003 - mae: 1.021 - mean_q: 1.378 - mean_eps: 0.321 - lives: 3.067 - episode_frame_number: 1035.102 - frame_number: 3003060.146
+
+Interval 77 (760000 steps performed)
+10000/10000 [==============================] - 293s 29ms/step - reward: 0.0218
+17 episodes - episode_reward: 12.412 [6.000, 19.000] - loss: 0.003 - mae: 1.034 - mean_q: 1.397 - mean_eps: 0.312 - lives: 2.988 - episode_frame_number: 1196.784 - frame_number: 3042950.599
+
+Interval 78 (770000 steps performed)
+10000/10000 [==============================] - 299s 30ms/step - reward: 0.0213
+20 episodes - episode_reward: 10.750 [6.000, 17.000] - loss: 0.003 - mae: 1.054 - mean_q: 1.423 - mean_eps: 0.303 - lives: 3.103 - episode_frame_number: 1054.487 - frame_number: 3082846.999
+
+Interval 79 (780000 steps performed)
+10000/10000 [==============================] - 302s 30ms/step - reward: 0.0210
+17 episodes - episode_reward: 12.529 [7.000, 17.000] - loss: 0.002 - mae: 1.072 - mean_q: 1.448 - mean_eps: 0.294 - lives: 2.975 - episode_frame_number: 1244.458 - frame_number: 3122749.426
+
+Interval 80 (790000 steps performed)
+10000/10000 [==============================] - 306s 31ms/step - reward: 0.0210
+18 episodes - episode_reward: 11.444 [3.000, 15.000] - loss: 0.002 - mae: 1.073 - mean_q: 1.448 - mean_eps: 0.285 - lives: 2.998 - episode_frame_number: 1135.388 - frame_number: 3162651.597
+
+Interval 81 (800000 steps performed)
+10000/10000 [==============================] - 324s 32ms/step - reward: 0.0218
+18 episodes - episode_reward: 12.500 [8.000, 21.000] - loss: 0.002 - mae: 1.088 - mean_q: 1.469 - mean_eps: 0.276 - lives: 3.065 - episode_frame_number: 1190.378 - frame_number: 3202553.277
+
+Interval 82 (810000 steps performed)
+10000/10000 [==============================] - 314s 31ms/step - reward: 0.0213
+18 episodes - episode_reward: 11.444 [4.000, 24.000] - loss: 0.003 - mae: 1.110 - mean_q: 1.497 - mean_eps: 0.267 - lives: 3.016 - episode_frame_number: 1219.635 - frame_number: 3242451.998
+
+Interval 83 (820000 steps performed)
+10000/10000 [==============================] - 317s 32ms/step - reward: 0.0209
+19 episodes - episode_reward: 11.368 [5.000, 17.000] - loss: 0.003 - mae: 1.131 - mean_q: 1.524 - mean_eps: 0.258 - lives: 2.900 - episode_frame_number: 1127.409 - frame_number: 3282352.111
+
+Interval 84 (830000 steps performed)
+10000/10000 [==============================] - 310s 31ms/step - reward: 0.0218
+17 episodes - episode_reward: 12.000 [7.000, 20.000] - loss: 0.002 - mae: 1.143 - mean_q: 1.539 - mean_eps: 0.249 - lives: 3.116 - episode_frame_number: 1194.671 - frame_number: 3322251.252
+
+Interval 85 (840000 steps performed)
+10000/10000 [==============================] - 313s 31ms/step - reward: 0.0218
+18 episodes - episode_reward: 12.889 [4.000, 21.000] - loss: 0.002 - mae: 1.149 - mean_q: 1.546 - mean_eps: 0.240 - lives: 3.077 - episode_frame_number: 1234.401 - frame_number: 3362153.077
+
+Interval 86 (850000 steps performed)
+10000/10000 [==============================] - 317s 32ms/step - reward: 0.0219
+17 episodes - episode_reward: 12.882 [5.000, 22.000] - loss: 0.002 - mae: 1.156 - mean_q: 1.556 - mean_eps: 0.231 - lives: 3.173 - episode_frame_number: 1282.869 - frame_number: 3402058.413
+
+Interval 87 (860000 steps performed)
+10000/10000 [==============================] - 321s 32ms/step - reward: 0.0225
+15 episodes - episode_reward: 14.467 [7.000, 29.000] - loss: 0.002 - mae: 1.172 - mean_q: 1.578 - mean_eps: 0.222 - lives: 3.034 - episode_frame_number: 1399.896 - frame_number: 3441970.643
+
+Interval 88 (870000 steps performed)
+10000/10000 [==============================] - 325s 32ms/step - reward: 0.0220
+16 episodes - episode_reward: 13.812 [9.000, 22.000] - loss: 0.002 - mae: 1.185 - mean_q: 1.594 - mean_eps: 0.213 - lives: 3.004 - episode_frame_number: 1312.846 - frame_number: 3481885.390
+
+Interval 89 (880000 steps performed)
+10000/10000 [==============================] - 328s 33ms/step - reward: 0.0227
+16 episodes - episode_reward: 14.125 [7.000, 20.000] - loss: 0.002 - mae: 1.189 - mean_q: 1.599 - mean_eps: 0.204 - lives: 3.252 - episode_frame_number: 1293.371 - frame_number: 3521800.299
+
+Interval 90 (890000 steps performed)
+10000/10000 [==============================] - 333s 33ms/step - reward: 0.0219
+16 episodes - episode_reward: 13.188 [6.000, 18.000] - loss: 0.002 - mae: 1.200 - mean_q: 1.613 - mean_eps: 0.195 - lives: 3.192 - episode_frame_number: 1300.088 - frame_number: 3561719.377
+
+Interval 91 (900000 steps performed)
+10000/10000 [==============================] - 338s 34ms/step - reward: 0.0220
+16 episodes - episode_reward: 14.875 [10.000, 23.000] - loss: 0.002 - mae: 1.206 - mean_q: 1.620 - mean_eps: 0.186 - lives: 3.196 - episode_frame_number: 1392.598 - frame_number: 3601636.322
+
+Interval 92 (910000 steps performed)
+10000/10000 [==============================] - 338s 34ms/step - reward: 0.0238
+14 episodes - episode_reward: 16.429 [10.000, 22.000] - loss: 0.002 - mae: 1.219 - mean_q: 1.637 - mean_eps: 0.177 - lives: 3.011 - episode_frame_number: 1403.249 - frame_number: 3641549.871
+
+Interval 93 (920000 steps performed)
+10000/10000 [==============================] - 335s 33ms/step - reward: 0.0225
+15 episodes - episode_reward: 14.933 [9.000, 20.000] - loss: 0.002 - mae: 1.227 - mean_q: 1.647 - mean_eps: 0.168 - lives: 3.107 - episode_frame_number: 1369.304 - frame_number: 3681465.503
+
+Interval 94 (930000 steps performed)
+10000/10000 [==============================] - 338s 34ms/step - reward: 0.0223
+17 episodes - episode_reward: 13.588 [9.000, 20.000] - loss: 0.002 - mae: 1.229 - mean_q: 1.651 - mean_eps: 0.159 - lives: 2.988 - episode_frame_number: 1271.826 - frame_number: 3721380.112
+
+Interval 95 (940000 steps performed)
+10000/10000 [==============================] - 343s 34ms/step - reward: 0.0221
+15 episodes - episode_reward: 13.800 [10.000, 19.000] - loss: 0.002 - mae: 1.232 - mean_q: 1.654 - mean_eps: 0.150 - lives: 3.061 - episode_frame_number: 1282.130 - frame_number: 3761290.668
+
+Interval 96 (950000 steps performed)
+10000/10000 [==============================] - 347s 35ms/step - reward: 0.0231
+16 episodes - episode_reward: 15.250 [10.000, 23.000] - loss: 0.002 - mae: 1.240 - mean_q: 1.664 - mean_eps: 0.141 - lives: 3.142 - episode_frame_number: 1355.091 - frame_number: 3801207.192
+
+Interval 97 (960000 steps performed)
+10000/10000 [==============================] - 352s 35ms/step - reward: 0.0225
+14 episodes - episode_reward: 15.857 [9.000, 28.000] - loss: 0.002 - mae: 1.251 - mean_q: 1.680 - mean_eps: 0.132 - lives: 3.198 - episode_frame_number: 1459.403 - frame_number: 3841127.020
+
+Interval 98 (970000 steps performed)
+10000/10000 [==============================] - 357s 36ms/step - reward: 0.0233
+15 episodes - episode_reward: 14.800 [10.000, 20.000] - loss: 0.002 - mae: 1.261 - mean_q: 1.692 - mean_eps: 0.123 - lives: 3.013 - episode_frame_number: 1326.377 - frame_number: 3881040.344
+
+Interval 99 (980000 steps performed)
+10000/10000 [==============================] - 359s 36ms/step - reward: 0.0232
+16 episodes - episode_reward: 15.500 [7.000, 29.000] - loss: 0.002 - mae: 1.269 - mean_q: 1.703 - mean_eps: 0.114 - lives: 2.876 - episode_frame_number: 1429.233 - frame_number: 3920955.402
+
+Interval 100 (990000 steps performed)
+10000/10000 [==============================] - 363s 36ms/step - reward: 0.0237
+13 episodes - episode_reward: 17.154 [8.000, 24.000] - loss: 0.002 - mae: 1.274 - mean_q: 1.710 - mean_eps: 0.105 - lives: 3.325 - episode_frame_number: 1498.964 - frame_number: 3960871.724
+
+Interval 101 (1000000 steps performed)
+10000/10000 [==============================] - 357s 36ms/step - reward: 0.0226
+15 episodes - episode_reward: 15.067 [10.000, 20.000] - loss: 0.002 - mae: 1.280 - mean_q: 1.718 - mean_eps: 0.100 - lives: 2.913 - episode_frame_number: 1357.404 - frame_number: 4000794.230
+
+Interval 102 (1010000 steps performed)
+10000/10000 [==============================] - 394s 39ms/step - reward: 0.0234
+15 episodes - episode_reward: 16.000 [10.000, 23.000] - loss: 0.002 - mae: 1.295 - mean_q: 1.738 - mean_eps: 0.100 - lives: 3.031 - episode_frame_number: 1397.911 - frame_number: 4040707.260
+
+Interval 103 (1020000 steps performed)
+10000/10000 [==============================] - 372s 37ms/step - reward: 0.0233
+14 episodes - episode_reward: 16.643 [11.000, 24.000] - loss: 0.002 - mae: 1.300 - mean_q: 1.747 - mean_eps: 0.100 - lives: 3.203 - episode_frame_number: 1497.774 - frame_number: 4080635.441
+
+Interval 104 (1030000 steps performed)
+10000/10000 [==============================] - 356s 36ms/step - reward: 0.0237
+12 episodes - episode_reward: 19.000 [10.000, 27.000] - loss: 0.003 - mae: 1.314 - mean_q: 1.764 - mean_eps: 0.100 - lives: 3.044 - episode_frame_number: 1682.081 - frame_number: 4120561.228
+
+Interval 105 (1040000 steps performed)
+10000/10000 [==============================] - 353s 35ms/step - reward: 0.0233
+13 episodes - episode_reward: 18.462 [11.000, 28.000] - loss: 0.003 - mae: 1.324 - mean_q: 1.777 - mean_eps: 0.100 - lives: 2.984 - episode_frame_number: 1655.639 - frame_number: 4160495.115
+
+Interval 106 (1050000 steps performed)
+10000/10000 [==============================] - 354s 35ms/step - reward: 0.0238
+14 episodes - episode_reward: 17.643 [9.000, 23.000] - loss: 0.003 - mae: 1.326 - mean_q: 1.781 - mean_eps: 0.100 - lives: 2.769 - episode_frame_number: 1583.925 - frame_number: 4200421.631
+
+Interval 107 (1060000 steps performed)
+10000/10000 [==============================] - 354s 35ms/step - reward: 0.0231
+14 episodes - episode_reward: 16.143 [11.000, 22.000] - loss: 0.003 - mae: 1.333 - mean_q: 1.790 - mean_eps: 0.100 - lives: 3.066 - episode_frame_number: 1419.849 - frame_number: 4240348.888
+
+Interval 108 (1070000 steps performed)
+10000/10000 [==============================] - 357s 36ms/step - reward: 0.0236
+14 episodes - episode_reward: 17.143 [12.000, 25.000] - loss: 0.003 - mae: 1.341 - mean_q: 1.801 - mean_eps: 0.100 - lives: 3.123 - episode_frame_number: 1511.470 - frame_number: 4280277.702
+
+Interval 109 (1080000 steps performed)
+10000/10000 [==============================] - 353s 35ms/step - reward: 0.0241
+12 episodes - episode_reward: 19.417 [12.000, 24.000] - loss: 0.003 - mae: 1.353 - mean_q: 1.817 - mean_eps: 0.100 - lives: 3.157 - episode_frame_number: 1644.820 - frame_number: 4320208.749
+
+Interval 110 (1090000 steps performed)
+10000/10000 [==============================] - 356s 36ms/step - reward: 0.0237
+13 episodes - episode_reward: 18.154 [12.000, 23.000] - loss: 0.003 - mae: 1.364 - mean_q: 1.832 - mean_eps: 0.100 - lives: 3.272 - episode_frame_number: 1573.649 - frame_number: 4360134.348
+
+Interval 111 (1100000 steps performed)
+10000/10000 [==============================] - 355s 36ms/step - reward: 0.0238
+13 episodes - episode_reward: 18.923 [6.000, 26.000] - loss: 0.003 - mae: 1.373 - mean_q: 1.845 - mean_eps: 0.100 - lives: 3.097 - episode_frame_number: 1689.671 - frame_number: 4400062.061
+
+Interval 112 (1110000 steps performed)
+10000/10000 [==============================] - 354s 35ms/step - reward: 0.0242
+12 episodes - episode_reward: 20.417 [15.000, 31.000] - loss: 0.003 - mae: 1.382 - mean_q: 1.857 - mean_eps: 0.100 - lives: 3.125 - episode_frame_number: 1778.940 - frame_number: 4440002.831
+
+Interval 113 (1120000 steps performed)
+10000/10000 [==============================] - 354s 35ms/step - reward: 0.0235
+14 episodes - episode_reward: 16.357 [11.000, 25.000] - loss: 0.003 - mae: 1.393 - mean_q: 1.870 - mean_eps: 0.100 - lives: 3.064 - episode_frame_number: 1430.104 - frame_number: 4479925.547
+
+Interval 114 (1130000 steps performed)
+10000/10000 [==============================] - 357s 36ms/step - reward: 0.0233
+15 episodes - episode_reward: 15.533 [10.000, 22.000] - loss: 0.003 - mae: 1.398 - mean_q: 1.877 - mean_eps: 0.100 - lives: 3.089 - episode_frame_number: 1358.267 - frame_number: 4519839.780
+
+Interval 115 (1140000 steps performed)
+10000/10000 [==============================] - 355s 36ms/step - reward: 0.0233
+13 episodes - episode_reward: 17.154 [14.000, 20.000] - loss: 0.003 - mae: 1.415 - mean_q: 1.899 - mean_eps: 0.100 - lives: 3.016 - episode_frame_number: 1522.518 - frame_number: 4559762.997
+
+Interval 116 (1150000 steps performed)
+10000/10000 [==============================] - 356s 36ms/step - reward: 0.0244
+13 episodes - episode_reward: 19.615 [13.000, 33.000] - loss: 0.003 - mae: 1.427 - mean_q: 1.915 - mean_eps: 0.100 - lives: 3.010 - episode_frame_number: 1706.802 - frame_number: 4599694.072
+
+Interval 117 (1160000 steps performed)
+10000/10000 [==============================] - 357s 36ms/step - reward: 0.0244
+13 episodes - episode_reward: 18.846 [12.000, 33.000] - loss: 0.003 - mae: 1.433 - mean_q: 1.924 - mean_eps: 0.100 - lives: 3.054 - episode_frame_number: 1671.039 - frame_number: 4639625.904
+
+Interval 118 (1170000 steps performed)
+10000/10000 [==============================] - 357s 36ms/step - reward: 0.0246
+11 episodes - episode_reward: 19.364 [13.000, 24.000] - loss: 0.003 - mae: 1.436 - mean_q: 1.930 - mean_eps: 0.100 - lives: 3.014 - episode_frame_number: 1804.501 - frame_number: 4679556.527
+
+Interval 119 (1180000 steps performed)
+10000/10000 [==============================] - 355s 36ms/step - reward: 0.0248
+12 episodes - episode_reward: 22.000 [11.000, 40.000] - loss: 0.003 - mae: 1.447 - mean_q: 1.944 - mean_eps: 0.100 - lives: 2.920 - episode_frame_number: 1809.832 - frame_number: 4719495.919
+
+Interval 120 (1190000 steps performed)
+10000/10000 [==============================] - 358s 36ms/step - reward: 0.0243
+12 episodes - episode_reward: 20.500 [13.000, 31.000] - loss: 0.003 - mae: 1.457 - mean_q: 1.959 - mean_eps: 0.100 - lives: 3.103 - episode_frame_number: 1742.693 - frame_number: 4759431.858
+
+Interval 121 (1200000 steps performed)
+10000/10000 [==============================] - 355s 35ms/step - reward: 0.0246
+12 episodes - episode_reward: 21.083 [15.000, 32.000] - loss: 0.003 - mae: 1.476 - mean_q: 1.983 - mean_eps: 0.100 - lives: 2.824 - episode_frame_number: 1753.677 - frame_number: 4799368.134
+
+Interval 122 (1210000 steps performed)
+10000/10000 [==============================] - 355s 35ms/step - reward: 0.0244
+12 episodes - episode_reward: 20.083 [14.000, 28.000] - loss: 0.003 - mae: 1.490 - mean_q: 2.002 - mean_eps: 0.100 - lives: 3.173 - episode_frame_number: 1708.819 - frame_number: 4839300.946
+
+Interval 123 (1220000 steps performed)
+10000/10000 [==============================] - 355s 36ms/step - reward: 0.0248
+13 episodes - episode_reward: 18.308 [13.000, 24.000] - loss: 0.003 - mae: 1.503 - mean_q: 2.017 - mean_eps: 0.100 - lives: 3.209 - episode_frame_number: 1580.739 - frame_number: 4879227.204
+
+Interval 124 (1230000 steps performed)
+10000/10000 [==============================] - 356s 36ms/step - reward: 0.0251
+12 episodes - episode_reward: 22.167 [13.000, 34.000] - loss: 0.003 - mae: 1.515 - mean_q: 2.033 - mean_eps: 0.100 - lives: 2.921 - episode_frame_number: 1806.302 - frame_number: 4919160.435
+
+Interval 125 (1240000 steps performed)
+10000/10000 [==============================] - 357s 36ms/step - reward: 0.0239
+14 episodes - episode_reward: 17.571 [12.000, 25.000] - loss: 0.003 - mae: 1.526 - mean_q: 2.048 - mean_eps: 0.100 - lives: 3.104 - episode_frame_number: 1515.788 - frame_number: 4959086.338
+
+Interval 126 (1250000 steps performed)
+10000/10000 [==============================] - 356s 36ms/step - reward: 0.0253
+12 episodes - episode_reward: 19.917 [13.000, 35.000] - loss: 0.003 - mae: 1.530 - mean_q: 2.052 - mean_eps: 0.100 - lives: 3.141 - episode_frame_number: 1648.361 - frame_number: 4999018.582
+
+Interval 127 (1260000 steps performed)
+10000/10000 [==============================] - 359s 36ms/step - reward: 0.0238
+12 episodes - episode_reward: 20.500 [15.000, 28.000] - loss: 0.003 - mae: 1.541 - mean_q: 2.067 - mean_eps: 0.100 - lives: 3.028 - episode_frame_number: 1765.875 - frame_number: 5038949.107
+
+Interval 128 (1270000 steps performed)
+10000/10000 [==============================] - 355s 36ms/step - reward: 0.0249
+11 episodes - episode_reward: 22.818 [14.000, 35.000] - loss: 0.003 - mae: 1.547 - mean_q: 2.073 - mean_eps: 0.100 - lives: 3.011 - episode_frame_number: 1961.021 - frame_number: 5078886.434
+
+Interval 129 (1280000 steps performed)
+10000/10000 [==============================] - 355s 36ms/step - reward: 0.0245
+12 episodes - episode_reward: 19.917 [14.000, 28.000] - loss: 0.003 - mae: 1.552 - mean_q: 2.080 - mean_eps: 0.100 - lives: 3.151 - episode_frame_number: 1697.886 - frame_number: 5118827.291
+
+Interval 130 (1290000 steps performed)
+10000/10000 [==============================] - 359s 36ms/step - reward: 0.0250
+12 episodes - episode_reward: 20.750 [17.000, 28.000] - loss: 0.003 - mae: 1.563 - mean_q: 2.095 - mean_eps: 0.100 - lives: 3.148 - episode_frame_number: 1711.149 - frame_number: 5158764.261
+
+Interval 131 (1300000 steps performed)
+10000/10000 [==============================] - 355s 36ms/step - reward: 0.0252
+12 episodes - episode_reward: 20.917 [17.000, 26.000] - loss: 0.003 - mae: 1.571 - mean_q: 2.104 - mean_eps: 0.100 - lives: 2.847 - episode_frame_number: 1685.170 - frame_number: 5198702.216
+
+Interval 132 (1310000 steps performed)
+10000/10000 [==============================] - 360s 36ms/step - reward: 0.0249
+12 episodes - episode_reward: 21.333 [11.000, 32.000] - loss: 0.003 - mae: 1.574 - mean_q: 2.109 - mean_eps: 0.100 - lives: 3.126 - episode_frame_number: 1814.452 - frame_number: 5238640.771
+
+Interval 133 (1320000 steps performed)
+10000/10000 [==============================] - 359s 36ms/step - reward: 0.0244
+12 episodes - episode_reward: 19.917 [12.000, 28.000] - loss: 0.003 - mae: 1.583 - mean_q: 2.123 - mean_eps: 0.100 - lives: 3.119 - episode_frame_number: 1720.183 - frame_number: 5278576.400
+
+Interval 134 (1330000 steps performed)
+10000/10000 [==============================] - 356s 36ms/step - reward: 0.0247
+11 episodes - episode_reward: 22.091 [15.000, 27.000] - loss: 0.002 - mae: 1.596 - mean_q: 2.138 - mean_eps: 0.100 - lives: 2.906 - episode_frame_number: 1842.434 - frame_number: 5318511.054
+
+Interval 135 (1340000 steps performed)
+10000/10000 [==============================] - 389s 39ms/step - reward: 0.0247
+12 episodes - episode_reward: 21.000 [12.000, 34.000] - loss: 0.003 - mae: 1.600 - mean_q: 2.145 - mean_eps: 0.100 - lives: 3.229 - episode_frame_number: 1828.028 - frame_number: 5358446.879
+
+Interval 136 (1350000 steps performed)
+10000/10000 [==============================] - 389s 39ms/step - reward: 0.0249
+11 episodes - episode_reward: 22.182 [13.000, 29.000] - loss: 0.003 - mae: 1.607 - mean_q: 2.153 - mean_eps: 0.100 - lives: 3.074 - episode_frame_number: 1846.027 - frame_number: 5398384.291
+
+Interval 137 (1360000 steps performed)
+10000/10000 [==============================] - 390s 39ms/step - reward: 0.0251
+11 episodes - episode_reward: 22.727 [17.000, 28.000] - loss: 0.003 - mae: 1.618 - mean_q: 2.170 - mean_eps: 0.100 - lives: 3.014 - episode_frame_number: 1868.994 - frame_number: 5438328.224
+
+Interval 138 (1370000 steps performed)
+10000/10000 [==============================] - 373s 37ms/step - reward: 0.0250
+12 episodes - episode_reward: 21.500 [13.000, 34.000] - loss: 0.003 - mae: 1.630 - mean_q: 2.184 - mean_eps: 0.100 - lives: 3.340 - episode_frame_number: 1819.326 - frame_number: 5478264.293
+
+Interval 139 (1380000 steps performed)
+10000/10000 [==============================] - 358s 36ms/step - reward: 0.0237
+12 episodes - episode_reward: 19.750 [12.000, 31.000] - loss: 0.003 - mae: 1.635 - mean_q: 2.191 - mean_eps: 0.100 - lives: 3.110 - episode_frame_number: 1770.348 - frame_number: 5518196.829
+
+Interval 140 (1390000 steps performed)
+10000/10000 [==============================] - 358s 36ms/step - reward: 0.0243
+12 episodes - episode_reward: 19.417 [12.000, 27.000] - loss: 0.003 - mae: 1.649 - mean_q: 2.209 - mean_eps: 0.100 - lives: 2.823 - episode_frame_number: 1722.215 - frame_number: 5558127.197
+
+Interval 141 (1400000 steps performed)
+10000/10000 [==============================] - 359s 36ms/step - reward: 0.0247
+11 episodes - episode_reward: 21.636 [15.000, 29.000] - loss: 0.003 - mae: 1.651 - mean_q: 2.212 - mean_eps: 0.100 - lives: 2.990 - episode_frame_number: 1887.105 - frame_number: 5598060.689
+
+Interval 142 (1410000 steps performed)
+10000/10000 [==============================] - 418s 42ms/step - reward: 0.0244
+13 episodes - episode_reward: 20.308 [12.000, 37.000] - loss: 0.003 - mae: 1.656 - mean_q: 2.219 - mean_eps: 0.100 - lives: 2.941 - episode_frame_number: 1694.963 - frame_number: 5637997.554
+
+Interval 143 (1420000 steps performed)
+10000/10000 [==============================] - 358s 36ms/step - reward: 0.0258
+11 episodes - episode_reward: 22.091 [15.000, 30.000] - loss: 0.003 - mae: 1.658 - mean_q: 2.222 - mean_eps: 0.100 - lives: 2.891 - episode_frame_number: 1813.067 - frame_number: 5677921.911
+
+Interval 144 (1430000 steps performed)
+10000/10000 [==============================] - 404s 40ms/step - reward: 0.0244
+12 episodes - episode_reward: 21.250 [13.000, 32.000] - loss: 0.003 - mae: 1.659 - mean_q: 2.224 - mean_eps: 0.100 - lives: 3.341 - episode_frame_number: 1808.836 - frame_number: 5717855.406
+
+Interval 145 (1440000 steps performed)
+10000/10000 [==============================] - 359s 36ms/step - reward: 0.0245
+12 episodes - episode_reward: 20.333 [11.000, 32.000] - loss: 0.003 - mae: 1.666 - mean_q: 2.232 - mean_eps: 0.100 - lives: 2.896 - episode_frame_number: 1771.063 - frame_number: 5757792.655
+
+Interval 146 (1450000 steps performed)
+10000/10000 [==============================] - 383s 38ms/step - reward: 0.0247
+12 episodes - episode_reward: 21.667 [13.000, 31.000] - loss: 0.003 - mae: 1.671 - mean_q: 2.238 - mean_eps: 0.100 - lives: 3.096 - episode_frame_number: 1858.394 - frame_number: 5797729.519
+
+Interval 147 (1460000 steps performed)
+10000/10000 [==============================] - 379s 38ms/step - reward: 0.0247
+12 episodes - episode_reward: 20.417 [13.000, 29.000] - loss: 0.003 - mae: 1.674 - mean_q: 2.243 - mean_eps: 0.100 - lives: 3.014 - episode_frame_number: 1718.332 - frame_number: 5837665.909
+
+Interval 148 (1470000 steps performed)
+10000/10000 [==============================] - 412s 41ms/step - reward: 0.0238
+11 episodes - episode_reward: 21.182 [13.000, 33.000] - loss: 0.003 - mae: 1.678 - mean_q: 2.248 - mean_eps: 0.100 - lives: 2.740 - episode_frame_number: 1944.763 - frame_number: 5877595.338
+
+Interval 149 (1480000 steps performed)
+10000/10000 [==============================] - 419s 42ms/step - reward: 0.0237
+11 episodes - episode_reward: 20.000 [11.000, 29.000] - loss: 0.003 - mae: 1.677 - mean_q: 2.246 - mean_eps: 0.100 - lives: 3.231 - episode_frame_number: 1829.628 - frame_number: 5917526.973
+
+Interval 150 (1490000 steps performed)
+10000/10000 [==============================] - 422s 42ms/step - reward: 0.0230
+12 episodes - episode_reward: 20.917 [14.000, 31.000] - loss: 0.003 - mae: 1.687 - mean_q: 2.260 - mean_eps: 0.100 - lives: 2.818 - episode_frame_number: 1870.062 - frame_number: 5957461.386
+
+Interval 151 (1500000 steps performed)
+10000/10000 [==============================] - 415s 42ms/step - reward: 0.0233
+11 episodes - episode_reward: 20.000 [11.000, 29.000] - loss: 0.003 - mae: 1.698 - mean_q: 2.273 - mean_eps: 0.100 - lives: 3.073 - episode_frame_number: 1808.730 - frame_number: 5997393.650
+
+Interval 152 (1510000 steps performed)
+10000/10000 [==============================] - 400s 40ms/step - reward: 0.0235
+11 episodes - episode_reward: 21.545 [13.000, 30.000] - loss: 0.003 - mae: 1.698 - mean_q: 2.273 - mean_eps: 0.100 - lives: 2.958 - episode_frame_number: 1873.538 - frame_number: 6037324.690
+
+Interval 153 (1520000 steps performed)
+10000/10000 [==============================] - 453s 45ms/step - reward: 0.0237
+12 episodes - episode_reward: 20.667 [8.000, 37.000] - loss: 0.003 - mae: 1.714 - mean_q: 2.294 - mean_eps: 0.100 - lives: 2.981 - episode_frame_number: 1939.381 - frame_number: 6077266.835
+
+Interval 154 (1530000 steps performed)
+10000/10000 [==============================] - 438s 44ms/step - reward: 0.0249
+12 episodes - episode_reward: 20.833 [14.000, 37.000] - loss: 0.003 - mae: 1.717 - mean_q: 2.299 - mean_eps: 0.100 - lives: 3.359 - episode_frame_number: 1776.839 - frame_number: 6117199.063
+
+Interval 155 (1540000 steps performed)
+10000/10000 [==============================] - 413s 41ms/step - reward: 0.0249
+12 episodes - episode_reward: 20.833 [14.000, 27.000] - loss: 0.003 - mae: 1.717 - mean_q: 2.299 - mean_eps: 0.100 - lives: 2.943 - episode_frame_number: 1734.998 - frame_number: 6157131.736
+
+Interval 156 (1550000 steps performed)
+10000/10000 [==============================] - 459s 46ms/step - reward: 0.0244
+13 episodes - episode_reward: 18.231 [8.000, 28.000] - loss: 0.003 - mae: 1.719 - mean_q: 2.301 - mean_eps: 0.100 - lives: 2.914 - episode_frame_number: 1550.239 - frame_number: 6197056.975
+
+Interval 157 (1560000 steps performed)
+10000/10000 [==============================] - 468s 47ms/step - reward: 0.0244
+12 episodes - episode_reward: 19.917 [13.000, 25.000] - loss: 0.003 - mae: 1.733 - mean_q: 2.320 - mean_eps: 0.100 - lives: 3.172 - episode_frame_number: 1683.747 - frame_number: 6236988.290
+
+Interval 158 (1570000 steps performed)
+10000/10000 [==============================] - 456s 46ms/step - reward: 0.0250
+12 episodes - episode_reward: 21.667 [15.000, 28.000] - loss: 0.003 - mae: 1.729 - mean_q: 2.316 - mean_eps: 0.100 - lives: 2.913 - episode_frame_number: 1805.383 - frame_number: 6276923.709
+
+Interval 159 (1580000 steps performed)
+10000/10000 [==============================] - 545s 54ms/step - reward: 0.0247
+13 episodes - episode_reward: 18.538 [10.000, 27.000] - loss: 0.003 - mae: 1.745 - mean_q: 2.337 - mean_eps: 0.100 - lives: 3.029 - episode_frame_number: 1571.896 - frame_number: 6316860.996
+
+Interval 160 (1590000 steps performed)
+10000/10000 [==============================] - 503s 50ms/step - reward: 0.0237
+14 episodes - episode_reward: 17.571 [14.000, 21.000] - loss: 0.003 - mae: 1.746 - mean_q: 2.337 - mean_eps: 0.100 - lives: 2.943 - episode_frame_number: 1514.615 - frame_number: 6356787.729
+
+Interval 161 (1600000 steps performed)
+10000/10000 [==============================] - 525s 53ms/step - reward: 0.0250
+11 episodes - episode_reward: 22.000 [16.000, 35.000] - loss: 0.003 - mae: 1.767 - mean_q: 2.366 - mean_eps: 0.100 - lives: 3.150 - episode_frame_number: 1823.843 - frame_number: 6396718.982
+
+Interval 162 (1610000 steps performed)
+10000/10000 [==============================] - 467s 47ms/step - reward: 0.0247
+11 episodes - episode_reward: 22.455 [12.000, 35.000] - loss: 0.003 - mae: 1.779 - mean_q: 2.381 - mean_eps: 0.100 - lives: 2.969 - episode_frame_number: 1980.417 - frame_number: 6436656.428
+
+Interval 163 (1620000 steps performed)
+10000/10000 [==============================] - 539s 54ms/step - reward: 0.0248
+12 episodes - episode_reward: 20.500 [15.000, 27.000] - loss: 0.003 - mae: 1.783 - mean_q: 2.387 - mean_eps: 0.100 - lives: 3.010 - episode_frame_number: 1697.492 - frame_number: 6476591.019
+
+Interval 164 (1630000 steps performed)
+10000/10000 [==============================] - 463s 46ms/step - reward: 0.0238
+12 episodes - episode_reward: 19.500 [10.000, 27.000] - loss: 0.003 - mae: 1.785 - mean_q: 2.390 - mean_eps: 0.100 - lives: 3.125 - episode_frame_number: 1724.018 - frame_number: 6516521.657
+
+Interval 165 (1640000 steps performed)
+10000/10000 [==============================] - 380s 38ms/step - reward: 0.0255
+10 episodes - episode_reward: 25.000 [16.000, 34.000] - loss: 0.004 - mae: 1.794 - mean_q: 2.403 - mean_eps: 0.100 - lives: 2.908 - episode_frame_number: 2055.712 - frame_number: 6556455.717
+
+Interval 166 (1650000 steps performed)
+10000/10000 [==============================] - 447s 45ms/step - reward: 0.0256
+11 episodes - episode_reward: 23.727 [17.000, 40.000] - loss: 0.003 - mae: 1.801 - mean_q: 2.412 - mean_eps: 0.100 - lives: 3.115 - episode_frame_number: 1954.920 - frame_number: 6596394.144
+
+Interval 167 (1660000 steps performed)
+10000/10000 [==============================] - 446s 45ms/step - reward: 0.0247
+10 episodes - episode_reward: 25.500 [15.000, 36.000] - loss: 0.003 - mae: 1.812 - mean_q: 2.427 - mean_eps: 0.100 - lives: 3.050 - episode_frame_number: 2207.074 - frame_number: 6636341.354
+
+Interval 168 (1670000 steps performed)
+10000/10000 [==============================] - 419s 42ms/step - reward: 0.0250
+11 episodes - episode_reward: 21.818 [11.000, 31.000] - loss: 0.004 - mae: 1.818 - mean_q: 2.435 - mean_eps: 0.100 - lives: 3.081 - episode_frame_number: 1852.215 - frame_number: 6676279.950
+
+Interval 169 (1680000 steps performed)
+10000/10000 [==============================] - 373s 37ms/step - reward: 0.0248
+12 episodes - episode_reward: 21.917 [12.000, 37.000] - loss: 0.004 - mae: 1.823 - mean_q: 2.441 - mean_eps: 0.100 - lives: 3.024 - episode_frame_number: 1922.600 - frame_number: 6716218.093
+
+Interval 170 (1690000 steps performed)
+10000/10000 [==============================] - 394s 39ms/step - reward: 0.0238
+12 episodes - episode_reward: 19.167 [11.000, 34.000] - loss: 0.003 - mae: 1.835 - mean_q: 2.456 - mean_eps: 0.100 - lives: 3.152 - episode_frame_number: 1699.469 - frame_number: 6756150.899
+
+Interval 171 (1700000 steps performed)
+10000/10000 [==============================] - 360s 36ms/step - reward: 0.0230
+10 episodes - episode_reward: 22.500 [16.000, 30.000] - loss: 0.003 - mae: 1.845 - mean_q: 2.471 - mean_eps: 0.100 - lives: 3.159 - episode_frame_number: 2050.932 - frame_number: 6796090.479
+
+Interval 172 (1710000 steps performed)
+10000/10000 [==============================] - 359s 36ms/step - reward: 0.0240
+11 episodes - episode_reward: 20.909 [8.000, 31.000] - loss: 0.003 - mae: 1.849 - mean_q: 2.477 - mean_eps: 0.100 - lives: 3.212 - episode_frame_number: 1959.005 - frame_number: 6836033.956
+
+Interval 173 (1720000 steps performed)
+10000/10000 [==============================] - 358s 36ms/step - reward: 0.0227
+12 episodes - episode_reward: 19.833 [5.000, 27.000] - loss: 0.003 - mae: 1.855 - mean_q: 2.483 - mean_eps: 0.100 - lives: 3.202 - episode_frame_number: 1759.815 - frame_number: 6875969.797
+
+Interval 174 (1730000 steps performed)
+10000/10000 [==============================] - 355s 35ms/step - reward: 0.0244
+12 episodes - episode_reward: 20.667 [14.000, 33.000] - loss: 0.003 - mae: 1.865 - mean_q: 2.496 - mean_eps: 0.100 - lives: 2.928 - episode_frame_number: 1828.783 - frame_number: 6915904.189
+
+Interval 175 (1740000 steps performed)
+10000/10000 [==============================] - 359s 36ms/step - reward: 0.0251
+done, took 52866.524 seconds
+Testing for 10 episodes ...
+Episode 1: reward: 23.000, steps: 911
+Episode 2: reward: 15.000, steps: 631
+Episode 3: reward: 32.000, steps: 1172
+Episode 4: reward: 26.000, steps: 993
+Episode 5: reward: 16.000, steps: 700
+Episode 6: reward: 22.000, steps: 857
+Episode 7: reward: 29.000, steps: 1110
+Episode 8: reward: 30.000, steps: 1231
+Episode 9: reward: 27.000, steps: 1083
+Episode 10: reward: 23.000, steps: 902
